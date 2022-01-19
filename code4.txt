@@ -1,0 +1,10 @@
+Tracked 
+Untracked         ---> git add --> git commit
+
+Tracked:
+New file 
+
+___
+Unmodified
+Modified (git add <>) 
+Staged (git commit -m "")
